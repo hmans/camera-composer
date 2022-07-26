@@ -1,0 +1,1 @@
+packages/camera-composer/LICENSE.md
